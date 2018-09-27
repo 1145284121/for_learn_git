@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>1073679599</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\config files\128KB_Pflash.icf</file>
+            <file>$PROJ_DIR$\..\Chip\inc\misc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\System_UI.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_SKEAZ1284.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_OLED.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\data.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_adc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ir.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_gpio.o</file>
+            <file>$PROJ_DIR$\..\Chip\src\common.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\System_UI.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IIC.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_kbi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\I2C.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\flash_param.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_FUN.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\KEA.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_debug.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_pit.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\mpuiic.o</file>
+            <file>$PROJ_DIR$\..\Chip\inc\common.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MPU6050.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_flash.pbi</file>
+            <file>$PROJ_DIR$\..\App\src\isr.c</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_adc.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_ftm.h</file>
+            <file>$PROJ_DIR$\..\App\src\misc.c</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_flash.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_gpio.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_irq.h</file>
+            <file>$PROJ_DIR$\..\App\inc\includefile.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_kbi.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_port.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_systick.h</file>
+            <file>$PROJ_DIR$\..\App\inc\gpio_icf.h</file>
+            <file>$PROJ_DIR$\..\App\inc\common.h</file>
+            <file>$PROJ_DIR$\..\App\inc\isr.h</file>
+            <file>$PROJ_DIR$\..\App\src\main.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\KEA128四元数解算\User\src\System_UI.c</file>
+            <file>$PROJ_DIR$\..\App\inc\KEA128_port_cfg.h</file>
+            <file>$PROJ_DIR$\..\App\inc\misc.h</file>
+            <file>$PROJ_DIR$\..\App\src\common.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_debug_common.pbi</file>
+            <file>$PROJ_DIR$\..\User\src\bsp_infrared.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_adc.pbi</file>
+            <file>$PROJ_DIR$\..\User\src\mpuiic.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\car_init.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\oled_debug.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ir.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\scope.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_adc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\Attitude_Calculation.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_SKEAZ1284.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.pbi</file>
+            <file>$PROJ_DIR$\..\Broad\src\SEEKFREE_OLED.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_infrared.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\data.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\mpuiic.pbi</file>
+            <file>$PROJ_DIR$\..\User\inc\bsp_infrared.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_uart.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\direction.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_systick.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_my_oled.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\oled_debug.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\isr.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\mpu6050.pbi</file>
+            <file>$PROJ_DIR$\..\User\src\oled_debug.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\mpuiic.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_oled.o</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\..\User\inc\angel.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_port.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_OLED.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_port.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_my_oled.__cstat.et</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_port_cfg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SoftIIC.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\car_init.pbi</file>
+            <file>$PROJ_DIR$\..\User\inc\mpuiic.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\BMX055.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_i2c.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\data.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\SoftIIC.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\I2C.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_OLED.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_SKEAZ1284.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_gpio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_global_var.__cstat.et</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_pit.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\User\inc\Attitude_Calculation.h</file>
+            <file>$PROJ_DIR$\..\User\src\mpu6050.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_pit.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\misc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\direction.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_FUN.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\oled_debug.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_i2c.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\flash_param.o</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_spi.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_debug_common.o</file>
+            <file>$PROJ_DIR$\..\Broad\inc\SEEKFREE_OLED.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Attitude_Calculation.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\BMX055.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\speed.__cstat.et</file>
+            <file>$PROJ_DIR$\..\User\inc\I2C.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ir.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\..\Broad\src\SEEKFREE_FUN.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_spi.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_systick.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\angel.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_kbi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_systick.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_spi.o</file>
+            <file>$PROJ_DIR$\..\Broad\src\SEEKFREE_IIC.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_irq.__cstat.et</file>
+            <file>$PROJ_DIR$\..\User\src\I2C.c</file>
+            <file>$PROJ_DIR$\..\Broad\src\SEEKFREE_MPU6050.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_debug.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\KEA.out</file>
+            <file>$PROJ_DIR$\..\Chip\inc\headfile.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_ftm.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\scope.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_global_var.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\mpu6050.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_IIC.o</file>
+            <file>$PROJ_DIR$\..\Chip\src\misc.c</file>
+            <file>$PROJ_DIR$\..\User\src\data.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_oled.__cstat.et</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\isr.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_my_oled.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_oled.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\angel.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_debug.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\..\User\inc\oled_debug.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_setpage.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_flash.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_infrared.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_SKEAZ1284.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\car_init.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_kbi.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\isr.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_ftm.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_setpage.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_spi.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_FUN.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_gpio.__cstat.et</file>
+            <file>$PROJ_DIR$\..\User\inc\data.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tlf.a</file>
+            <file>$PROJ_DIR$\..\User\inc\mpu6050.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\Broad\inc\SEEKFREE_IIC.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_ftm.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\direction.__cstat.et</file>
+            <file>$PROJ_DIR$\..\Lib\inc\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\speed.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\mpu6050.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_setpage.__cstat.et</file>
+            <file>$PROJ_DIR$\..\App\inc\BMX055.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\speed.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_pit.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_uart.o</file>
+            <file>$PROJ_DIR$\..\Lib\inc\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_i2c.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SEEKFREE_MPU6050.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\flash_param.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\bsp_global_var.o</file>
+            <file>$PROJ_DIR$\..\User\inc\bsp_global_var.h</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_pit.c</file>
+            <file>$PROJ_DIR$\..\User\inc\bsp_my_oled.h</file>
+            <file>$PROJ_DIR$\..\User\inc\car_init.h</file>
+            <file>$PROJ_DIR$\..\User\inc\bsp_oled.h</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_kbi.c</file>
+            <file>$PROJ_DIR$\..\User\inc\direction.h</file>
+            <file>$PROJ_DIR$\..\User\inc\flash_param.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_uart.h</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_i2c.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\第十三届电磁组程序 -\Lib\Drivers\src\SoftIIC.c</file>
+            <file>$PROJ_DIR$\..\User\inc\ir.h</file>
+            <file>$PROJ_DIR$\..\User\inc\scope.h</file>
+            <file>$PROJ_DIR$\..\User\inc\speed.h</file>
+            <file>$PROJ_DIR$\..\User\inc\ui_debug.h</file>
+            <file>$PROJ_DIR$\..\User\inc\ui_debug_common.h</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_irq.c</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_ftm.c</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_uart.c</file>
+            <file>$PROJ_DIR$\..\Lib\inc\SKEAZ1284.h</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_systick.c</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_adc.c</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_port.c</file>
+            <file>$PROJ_DIR$\..\App\src\BMX055.c</file>
+            <file>$PROJ_DIR$\..\Lib\inc\system_SKEAZ1284.h</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_flash.c</file>
+            <file>$PROJ_DIR$\..\Lib\src\system_SKEAZ1284.c</file>
+            <file>$PROJ_DIR$\..\Lib\inc\core_cm0plus.h</file>
+            <file>$PROJ_DIR$\..\Lib\startup_SKEAZ1284.s</file>
+            <file>$PROJ_DIR$\..\Chip\src\KEA128_gpio.c</file>
+            <file>$PROJ_DIR$\..\User\src\scope.c</file>
+            <file>$PROJ_DIR$\..\User\src\ui_setpage.c</file>
+            <file>$PROJ_DIR$\..\User\src\flash_param.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_irq.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\scope.o</file>
+            <file>$PROJ_DIR$\..\User\src\angel.c</file>
+            <file>$PROJ_DIR$\..\User\src\speed.c</file>
+            <file>$PROJ_DIR$\..\User\src\direction.c</file>
+            <file>$PROJ_DIR$\..\User\src\ui_debug_common.c</file>
+            <file>$PROJ_DIR$\..\User\src\bsp_oled.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_flash.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_irq.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\..\Chip\inc\KEA128_i2c.h</file>
+            <file>$PROJ_DIR$\..\User\inc\ui_setpage.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_port.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\KEA128_uart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\..\User\src\ui_debug.c</file>
+            <file>$PROJ_DIR$\..\User\src\bsp_my_oled.c</file>
+            <file>$PROJ_DIR$\..\User\src\ir.c</file>
+            <file>$PROJ_DIR$\..\Broad\inc\SEEKFREE_MPU6050.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\angel.pbi</file>
+            <file>$PROJ_DIR$\..\User\src\bsp_global_var.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\ui_debug_common.__cstat.et</file>
+            <file>$PROJ_DIR$\..\User\src\Attitude_Calculation.c</file>
+            <file>$PROJ_DIR$\..\Broad\inc\SEEKFREE_FUN.h</file>
+            <file>$PROJ_DIR$\..\User\src\car_init.c</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 133 23</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 152</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 240 205 1 212 40 21 144 164 112 27 14 39 44 189 220 235 84 134 98 37 41 151 169 182 33 36 32 200 35 238 195 204 206 78 166 28 137 156 217 15 237 94 118</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\App\src\isr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 145</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 160</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 212 204 40 48 195 43 14 39 208 177 192 47 98 37 41 194 205 38 217 189 28 112 164 199 42 33 36 32 200 35 44 196 207 239 206 198 220 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\App\src\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 103</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38 240 195 40 204 48 212 43 14 39 208 192 47 98 37 41 194 205 220 21 199 42 33 36 32 200 35 44 196 207 239 206 198 217 186 237 172 189 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\App\src\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 167</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 243</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 150</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41 48 98 192 212 43 47 37 194 205 38 217 177 14 40 39 195 208 204 189 28 112 164 199 42 33 36 32 200 35 44 196 207 239 206 198 220 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\KEA128四元数解算\User\src\System_UI.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37 217 43 205 189 47 194 38 98 41 192 21 212 14 208 39 40 195 204 182 48 42 33 36 32 200 35 44 196 207 239 199 206 198 220 177 28 112 164 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\App\src\common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 152</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 204 40 48 38 195 212 43 14 39 208 177 192 47 98 37 41 194 205 220 189 28 112 164 199 42 33 36 32 200 35 44 196 207 239 206 198 217 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\bsp_infrared.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 155</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66 43 38 47 42 212 220 240 189 21 28 112 182 137 156 118 237 235 15 217 14 164 166 33 84 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36 237 43 84 199 44 212 240 42 200 207 198 48 33 32 35 196 239 206 217 189 137 21 164 14 192 38 47 98 40 37 39 41 195 194 208 204 205 220 15 28 156 235 66 118 112 182 166</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\mpuiic.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87 43 38 47 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 84 98 48 36 40 32 37 200 39 35 41 238 94 144 195 151 204 44 206 169 78 205</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 240 84 166 43 41 98 169 48 37 151 137 21 212 217 235 189 14 40 39 144 44 205 28 156 36 38 47 33 32 200 35 238 195 204 206 78 164 112 182 220 15 237 87 118 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Broad\src\SEEKFREE_OLED.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 111 134 27 84 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 98 1 36 40 32 37 200 39 35 41 238 94 144</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1 27 32 28 212 84 189 33 35 21 156 14 36 200 238 166 137 240 217 118 237 164 111 134 98 40 37 39 41 144 112 182 220 15 235 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\oled_debug.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 106</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 84 98 48 36 40 32 37 200 39 35 41 238 94 144 195 151 204 44 206 169 78 205</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44 166 14 84 212 39 40 144 205 137 21 240 217 189 15 43 164 48 98 37 41 151 169 38 28 156 237 47 33 36 32 200 35 238 195 204 206 78 112 182 220 235 118 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\mpu6050.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 179</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 139</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 171 87 43 38 47 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 84 98 48 36 40 32 37 200 39 35 41 238 94 144 195 151 204 44 206 169 78 205</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 238 84 212 36 78 47 200 204 189 15 43 164 48 41 38 33 32 35 195 206 182 237 87 14 98 40 37 39 144 151 44 169 205 21 166 28 112 220 240 235 171 137 156 217 118 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 127</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 163</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 120</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 144 48 43 38 47 42 212 220 240 189 21 28 112 182 137 156 118 237 235 15 217 14 164 166 33 84 98 36 40 32 37 200 39 35 41 238 94 195 196</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42 237 43 212 200 240 48 36 238 84 33 32 35 195 220 189 137 21 166 38 47 14 98 40 37 39 41 144 196 217 15 28 156 235 94 164 118 112 182</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Broad\src\SEEKFREE_FUN.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 165</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 105</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 252 134 27 84 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 98 1 36 40 32 37 200 39 35 41 238 94 144</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 238 166 27 36 21 84 200 137 212 240 217 14 134 33 32 35 28 156 189 1 98 40 37 39 41 144 164 112 182 220 118 237 252 15 235 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Broad\src\SEEKFREE_IIC.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 140</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 173 134 27 84 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 98 1 36 40 32 37 200 39 35 41 238 94 144 111 247</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39 28 27 84 212 14 21 40 144 156 189 98 37 41 247 166 137 240 217 1 134 33 36 32 200 35 238 111 173 164 112 182 220 118 237 15 235 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\I2C.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 116 43 38 47 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 84 98 48 36 40 32 37 200 39 35 41 238 94 144 195</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35 112 220 43 164 212 189 33 21 240 84 38 32 235 48 47 36 200 238 182 14 98 40 37 39 41 144 44 205 166 28 137 156 15 237 116 217 118 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Broad\src\SEEKFREE_MPU6050.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 188</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 247 134 27 84 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 98 1 36 40 32 37 200 39 35 41 238 94 144 111 173</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 240 217 1 21 212 98 41 137 84 27 37 247 166 235 189 134 14 40 39 144 28 156 173 33 36 32 200 35 238 111 164 112 182 220 15 237 94 118</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\KEA.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 23</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 0 113 88 191 146 76 158 152 104 108 9 72 8 234 161 11 187 236 18 102 241 125 185 167 16 228 91 183 5 157 4 149 110 162 79 77 175 170</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 103</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27 1 212 151 182 37 98 41 169 189 84 134 14 40 39 144 44 205 164 112 21 220 33 36 32 200 35 238 195 204 206 78 166 28 137 156 240 217 118 237 94 15 235</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\data.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 7</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 84 98 48 36 40 32 37 200 39 35 41 238 94 144 195 151 204 44 206 169 78 205</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39 84 212 14 44 166 40 144 205 137 189 15 43 164 48 98 37 41 151 169 38 21 28 156 182 237 47 33 36 32 200 35 238 195 204 206 78 112 220 240 235 217 118 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_pit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 184</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 206 43 196 212 48 33 35 239 177 192 47 42 36 200 44 207 199 198 217 189 28 112 164 38 14 98 40 37 39 41 195 194 208 204 205 220 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_kbi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 159</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 39 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 40 32 37 200 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 43 206 196 212 48 33 35 239 21 47 208 42 36 200 44 207 199 198 217 186 237 172 189 14 204 38 98 40 37 39 41 195 194 192 205 220 240 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 187</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 107</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94 189 21 28 112 182 164 226 238 43 38 47 42 212 220 240 177 237 172 186 217 14 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40 226 177 43 47 98 204 38 195 212 14 208 21 189 39 164 48 238 28 112 182 36 37 41 194 192 205 220 199 94 42 33 32 200 35 44 196 207 239 206 198 217 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\第十三届电磁组程序 -\Lib\Drivers\src\SoftIIC.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 91</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 238 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 207 43 212 42 189 47 200 198 36 44 199 220 21 14 208 98 33 32 35 196 239 206 182 48 204 38 40 37 39 41 195 194 192 205 177 28 112 164 238 217 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_irq.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 236</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 227</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 40 32 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48 37 205 47 194 220 212 43 98 41 192 177 38 14 40 39 195 208 204 189 28 112 164 199 42 33 36 32 200 35 44 196 207 239 206 198 217 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_ftm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 161</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 174</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 135</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43 212 196 21 48 32 206 33 35 239 240 192 42 36 200 44 207 199 198 217 47 38 14 98 40 37 39 41 195 194 208 204 205 220 186 237 172 189 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 185</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 242</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 200 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 40 32 37 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35 212 21 33 239 43 32 196 206 189 47 192 48 14 42 36 200 44 207 199 198 217 182 38 98 40 37 39 41 195 194 208 204 205 220 177 28 112 164 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_systick.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 125</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 40 32 37 200 39 35 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 206 43 196 212 112 33 35 239 189 28 164 192 48 42 36 200 44 207 199 198 217 177 47 38 14 98 40 37 39 41 195 194 208 204 205 220 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 40 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 212 47 194 220 43 37 205 186 237 172 48 98 41 192 189 38 14 40 39 195 208 204 21 199 217 42 33 36 32 200 35 44 196 207 239 206 198 240 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_port.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 241</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 208 43 14 39 212 38 40 195 204 240 48 192 47 98 37 41 194 205 220 21 199 42 33 36 32 200 35 44 196 207 239 206 198 217 186 237 172 189 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\App\src\BMX055.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 114</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 181 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198 238</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36 48 199 43 47 44 42 200 207 198 217 240 33 32 35 196 239 206 212 21 238 38 14 98 40 37 39 41 195 194 208 192 204 205 220 186 237 172 189 181 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 234</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 154</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 36 40 32 37 200 39 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48 35 33 239 189 47 212 43 32 196 206 21 192 42 36 200 44 207 199 198 217 182 38 14 98 40 37 39 41 195 194 208 204 205 220 177 28 112 164 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Lib\src\system_SKEAZ1284.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 157</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 240 189 21 28 112 182 212 220 177 237 172 186 217 43 38 47 42 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 172 237 205 48 37 212 43 189 28 112 47 194 192 182 217 98 41 164 199 21 220 177 240 38 14 40 39 195 208 204 186 42 33 36 32 200 35 44 196 207 239 206 198</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Lib\startup_SKEAZ1284.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Chip\src\KEA128_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 168</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 48 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42 47 48 43 207 217 200 198 36 44 199 177 14 208 33 32 35 196 239 206 212 189 28 112 164 204 38 98 40 37 39 41 195 194 192 205 220 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\scope.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 228</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 136</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 205 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 198 200 47 42 207 217 182 204 43 36 44 199 48 212 33 32 35 196 239 206 189 21 14 208 38 98 40 37 39 41 195 194 192 205 220 177 28 112 164 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\ui_setpage.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 162</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 153</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 180</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 192 98 48 41 212 43 194 47 37 205 220 177 207 38 14 40 39 195 208 204 189 28 112 164 199 42 33 36 32 200 35 44 196 239 206 198 217 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\flash_param.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 190</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 204 43 40 189 47 38 195 14 39 208 21 212 98 37 41 194 192 205 220 182 48 35 42 33 36 32 200 44 196 207 239 199 206 198 217 177 28 112 164 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\angel.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 248</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 122</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 14 189 21 28 112 182 137 156 164 166 33 212 240 220 118 237 235 15 217 84 98 48 36 40 32 37 200 39 35 41 238 94 144 195 151 204 44 206 169 78 205</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44 166 14 84 212 39 40 144 205 137 21 240 217 189 15 43 164 48 98 37 41 151 169 38 28 156 237 47 33 36 32 200 35 238 195 204 206 78 112 182 220 235 118 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\speed.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 183</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 178</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 115</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44 43 189 47 36 199 42 200 207 198 21 212 14 208 33 32 35 196 239 206 220 182 48 204 98 40 37 39 41 195 194 192 205 38 217 177 28 112 164 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\direction.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 176</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198 202 10 181 238 100</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 182 43 35 47 33 239 48 212 32 196 206 220 189 21 14 181 42 36 200 44 207 199 198 177 28 112 164 202 100 98 40 37 39 41 195 194 208 192 204 205 38 217 240 186 237 172 10 238</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\ui_debug_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 110</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 250</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 208 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 199 192 204 206 205 198 126 99</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 194 44 36 199 43 48 47 42 200 207 198 217 240 33 32 35 196 239 206 212 21 164 126 38 14 98 40 37 39 41 195 208 192 204 205 220 186 237 172 189 99 177 28 112 182</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\bsp_oled.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 147</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 143</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 196 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 194 220 240 43 47 37 205 48 98 41 192 208 38 14 40 39 195 204 21 212 42 33 36 32 200 35 44 196 207 239 199 206 198 217 186 237 172 189 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\ui_debug.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 149</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 24</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36 199 48 44 212 43 42 200 207 198 217 177 192 33 32 35 196 239 206 189 28 112 164 47 38 14 98 40 37 39 41 195 194 208 204 205 220 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\bsp_my_oled.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 146</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 194 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 212 21 43 194 220 47 14 37 205 189 208 98 41 192 182 48 204 196 38 40 39 195 177 28 112 164 199 42 33 36 32 200 35 44 207 239 206 198 217 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\ir.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 117</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39 48 14 208 212 43 38 40 195 204 177 192 47 98 37 41 194 205 220 189 28 112 164 199 42 33 36 32 200 35 44 196 207 239 206 198 217 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\bsp_global_var.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 191</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 138</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 206 48 43 196 212 33 35 239 177 192 42 36 200 44 207 199 198 217 189 28 112 164 47 38 14 98 40 37 39 41 195 194 208 204 205 220 182 21 240 186 237 172</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\Attitude_Calculation.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 113</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 38 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198 100 202 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 200 212 198 21 43 239 42 207 217 240 47 48 36 44 199 202 33 32 35 196 206 186 237 172 189 194 10 100 38 14 98 40 37 39 41 195 208 192 204 205 220 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\src\car_init.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 158</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 43 47 42 212 220 240 189 21 28 112 182 177 237 172 186 217 14 164 33 98 48 36 40 32 37 200 39 35 41 44 195 196 194 207 239 208 199 192 204 206 205 198 238 181</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35 48 43 33 239 240 32 196 206 220 47 181 42 36 200 44 207 199 198 21 212 238 14 98 40 37 39 41 195 194 208 192 204 205 38 217 186 237 172 189 177 28 112 182 164</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
